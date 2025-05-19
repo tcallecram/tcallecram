@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p2>Atualmente estou trabalhando como suporte e desenvolvedora de uma plataforma realizada com o Bubble.io (nocode), desenvolvida para ser algo fácil e prático no gerenciamento dos processos e clientes de uma empresa que estagiei.<p2>
+<p2>Atualmente estou trabalhando como suporte de uma plataforma realizada com o Bubble.io (nocode), que desenvolvi para automatizar o gerenciamento dos processos e clientes de uma empresa que estagiei.<p2>
 <br>
 
 ## 👩‍💻 Ferramentas e Tecnologias
