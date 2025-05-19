@@ -1,4 +1,4 @@
-## Olá, curioso! Me chamo Marcella 👋
+## Olá! Me chamo Marcella 👋
 <p1>Seja bem-vindo ao meu perfil no GitHub!<p1>
 
 <!--
